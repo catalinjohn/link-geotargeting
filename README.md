@@ -8,7 +8,7 @@ At the end of the file there is the default link which should be set as the main
 The code was developed for and published courtesy of [bonus.wiki](https://bonus.wiki/)
 
 ## What do I need to do to make this work?
-* Copy the georedirect.php file to your PC
+* Copy the redirect.php file to your PC
 * Edit the file: edit the default link for user redirection and also uncomment the country you need to redirect users to a different URL than the default link
 * If the country you are interested in is not listed in the file (please note the file has only several countries listed for exeplification purposes, but more can be added or the ones listed there removed). Simply duplicate the 3 line code for country redirection and change the details to the country you are interested in. The code uses the 2 Lettter country code - complete list on [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2)
 * Make sure the code for the country redirection you want to use is uncommented. Save the file and upload to your server.
