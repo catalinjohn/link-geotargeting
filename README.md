@@ -1,7 +1,7 @@
 # Free Link Geotargeting
 Simple Link geotargeting - allows to redirect users to specific links/domains based on their country.
 
-The Geotargeting works with websites served through Cloudflare (free service) and it helps in redirecting users to specific pages/domains based on the user country. Therefore, no database of IPs is required. It can be used in various stances, such as by affiliate marketers. Simpl copy the redirect.php file and upload on your server, a folder like go/ or anyway you like. Edit the file name for your easy management, and edit the file code to set the geo-redirection.
+The Geotargeting works with websites served through Cloudflare (free service) and it helps in redirecting users to specific pages/domains based on the user country. Therefore, no database of IPs is required. It can be used in various stances, such as by affiliate marketers. Simply copy the redirect.php file and upload on your server, a folder like go/ or visit/ or any name you like. Edit the file name for your easy management, and edit the file code to set the geo-redirection. You can duplicate the file for multiple uses/offers.
 
 At the end of the file there is the default link which should be set as the main redirection link, and for any country specific redirection, just uncomment the 3 lines of the country and add the redirection link for that region.
 
